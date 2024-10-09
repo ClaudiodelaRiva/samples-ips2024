@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>giis</groupId>
-	<artifactId>samples-test-dev</artifactId>
+	<artifactId>samples-ips2024</artifactId>
 	<version>2.1.3-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<organization>
@@ -12,8 +12,8 @@
 		<url>http://giis.uniovi.es/</url>
 	</organization>
 
-	<name>samples-test-dev</name>
-	<url>https://github.com/javiertuya/samples-test-dev</url>
+	<name>sampes-ips2024</name>
+	<url>https://github.com/ClaudiodelaRiva/samples-ips2024</url>
 
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
